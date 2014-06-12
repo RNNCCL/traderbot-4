@@ -1,0 +1,23 @@
+{
+  "name": "TradingBot",
+  "version": "0.4.0",
+  "description": "A NodeJS trading bot for Bitstamp",
+  "main": "tradingbot.js",
+  "dependencies": {
+    "bitstamp": "~0.1.3",
+    "optimist": "~0.6.0",
+    "node-schedule": "~0.1.13",
+    "nodemailer": "~0.5.15",
+    "talib": "~0.2.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:leshow/tradingbot.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
